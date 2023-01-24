@@ -95,5 +95,6 @@ function checkAnswer(input){
 function startOver(){
     level=0;
     gamePattern=[];
+    userClickedPattern=[];
     start=false;
 }
